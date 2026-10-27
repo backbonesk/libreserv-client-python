@@ -5,6 +5,10 @@ Versions follow [Semantic Versioning](https://semver.org/). `master`
 carries `X.Y.Z.devN` between releases; a release is a version-bump commit
 tagged `vX.Y.Z` and published to PyPI.
 
+## 1.0.2 — unreleased
+
+(nothing yet)
+
 ## 1.0.1 — 2026-10-27
 
 ### Upgrading from 1.0.0
